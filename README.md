@@ -9,4 +9,4 @@ Repositório destinado à documentação do Projeto EarSense de Dispositivos Ele
 * [Módulo de Carregamento](https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf)
 
 ## Fritzing
-![Fritzing](ttps://github.com/nyck13/EarSense/blob/07246e13f19587bb21117ac85c060467727d2840/projeto_fritzing.jpg)
+![Fritzing](https://github.com/nyck13/EarSense/blob/07246e13f19587bb21117ac85c060467727d2840/projeto_fritzing.jpg)
